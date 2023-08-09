@@ -1,6 +1,7 @@
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
+    id 'com.dropbox.dropshots' version '0.4.1'
 }
 
 android {
